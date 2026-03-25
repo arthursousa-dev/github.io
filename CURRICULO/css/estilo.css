@@ -1,0 +1,50 @@
+body {
+  font-family: Verdana;
+  font-size: 14px;
+  color: #ffffff;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #1a1a2e;
+  padding: 20px 100px;
+}
+
+section {
+  background-color: #16213e;
+  padding: 20px 90px;
+}
+
+#nome {
+  font-variant: small-caps;
+  color: #f0c040;
+}
+
+h2 {
+  font-size: 16px;
+  color: #c9a84c;
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+.perfil {
+  width: 200px;
+  float: right;
+  margin-right: 1px;
+}
+
+.redes {
+  width: 50px;
+  vertical-align: middle;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  background-color: #0f3460;
+  padding: 20px 40px;
+  color: #ffffff;
+}
